@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Spectral+SC:wght@700&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap" rel="stylesheet">);
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+main{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	height: 745px;
+
+}
+
+body{
+	background-image: url(../img/alicia2.jpg);
+}
+
+header{
+	width: 100%;
+	height: 125px;
+	background-color: #EA2027;
+}
+
+nav{
+	width: 100%;
+	height: 50px; 
+	background-color: #eb4d4b;
+}
+
+section{
+	width: 100%;
+	height: auto;
+}
+
+footer{
+	width: 100%;
+	height: 60px;
+	background-color: #eb4d4b;
+}
+
+
+#menu {
+	padding: 0;
+}
+#menu li {
+	display: inline;
+
+}
+
+#menu li a{
+	font-size: 18px;
+	text-decoration: none;
+	float: right;
+ 	padding-top: 0.5%;
+ 	background-color: #eb4d4b;
+ 	color: #ffffff;
+ 	font-family: 'Noto Sans KR';
+ 	margin-right: 200px;
+	margin-left: 20px;
+
+
+}
+
+#menu li a:hover{
+	background-color: #EA2027;
+	margin-top: -2;
+	padding-bottom: 12px;
+
+}
+
+.logo {
+	margin-left: 555px;
+}
+
+#uno {
+	width: 50%;
+	height: 520px;
+	float: left;
+
+}
+
+.font1{
+	color:  #ffffff;
+	font-family: 'Noto Sans KR';
+	font-size: 15px;
+	padding-left: 15%;
+
+}
+
+.font2{
+	color:  #ffffff;
+	font-family: 'Noto Sans KR';
+	font-size: 20px;
+
+}
+
+
+#dos{
+	width: 50%;
+	height: 520px;
+	float: right;
+	background-color: #070707;
+}
+
+.img1{
+
+	padding-top: 20%;
+	padding-left: 30%;
+}
+
+#cuatro {
+	width: 50%;
+	height: 55px;
+	float: left;
+}
+
+#cinco {
+	width: 50%;
+	height: 55px;
+	float: right;
+}
+
+.font3{
+	padding-left: 10%;
+	padding-top: 3%;
+	font-family: 'Noto Sans KR';
+	color: #ffffff;
+	}
+
+.redes{
+	padding-top: 1.7%;
+	padding-left: 70%;
+}
+
+#tienda1{
+	height: 520px;
+	width: 100%;
+	background-image: url(../img/fondo1.png);
+}
+
+
+.font4{
+	color: #020202;
+	font-family: 'Noto Sans KR';
+	margin-left: 37%;
+	padding-top: 55%;
+	font-size: 20px;
+}
+
+#seccion1{
+	width: 35%;
+	height: 520px;
+	float: left;
+
+}
+
+#seccion2{
+	width: 35%;
+	height: 520px;
+	float: left;
+}
+
+.font5{
+	color: #ffffff;
+	font-family: 'Spectral SC';
+	padding-top: 10%;
+	margin-left: 30%;
+	font-size: 50px;
+}
+
+#seccion3{
+	width: 30%;
+	height: 520px;
+	float: right;
+}
+
+
+.font6{
+	color: #020202;
+	font-family: 'Noto Sans KR';
+	margin-left: 15%;
+	padding-top: 65%;
+	font-size: 20px;
+}
+
+#somos1{
+	width: 100%;
+	height: 120px;
+	background-image: url(../img/titulo.png);
+}
+
+.font7{
+	color: #ffffff;
+	font-family: 'Noto Sans KR';
+	padding-top: 3%;
+	padding-left: 45%;
+	font-size: 30px;
+}
+
+#somos2{
+	width: 100%;
+	height: 320px;
+	background-image: url(../img/fondo2.png);
+}
+
+.font8{
+	color: #ffffff;
+	font-size: 20px;
+	font-family: 'Noto Sans KR';
+	padding-top: 5%;
+	padding-left: 40%;
+}
+
+.font9{
+
+	color: #ffffff;
+	font-size: 15px;
+	font-family: 'Noto Sans KR';
+	padding-top: 3%;
+	padding-left: 40%;
+}
+#somos3{
+	width: 100%;
+	height: 320px;
+	background-image: url(../img/fondo3.png);
+}
+
+#somos4{
+	width: 100%;
+	height: 320px;
+	background-image: url(../img/fondo4.png);
+}
+
+
+
+.font10{
+	color: #ffffff;
+	font-family: 'Noto Sans KR';
+	padding-top: 3%;
+	padding-left: 40%;
+	font-size: 30px;
+}

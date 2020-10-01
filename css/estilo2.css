@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+main{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	height: 745px;
+
+}
+
+body{
+
+}
+
+header{
+	width: 100%;
+	height: 125px;
+	background-color: #EA2027;
+}
+
+nav{
+	width: 100%;
+	height: 50px; 
+	background-color: #eb4d4b;
+}
+
+section{
+	width: 100%;
+	height: auto;
+	background-color: #ffffff;
+}
+
+footer{
+	width: 100%;
+	height: 55px;
+	background-color: #eb4d4b;
+}
+#menu {
+	padding: 0;
+}
+#menu li {
+	display: inline;
+
+}
+
+#menu li a{
+	font-size: 18px;
+	text-decoration: none;
+	float: right;
+ 	padding-top: 0.5%;
+ 	background-color: #eb4d4b;
+ 	color: #ffffff;
+ 	font-family: 'Noto Sans KR';
+ 	margin-right: 200px;
+	margin-left: 20px;
+
+
+}
+
+#menu li a:hover{
+	background-color: #EA2027;
+	margin-top: -2;
+	padding-bottom: 12px;
+
+}
+
+.logo {
+	margin-left: 555px;
+}
+
+
+#somos1{
+	width: 100%;
+	height: 120px;
+	background-image: url(../img/titulo.png);
+}
+
+.font10{
+	color: #ffffff;
+	font-family: 'Noto Sans KR';
+	padding-top: 3%;
+	padding-left: 40%;
+	font-size: 30px;
+}
+
+#personaje1{
+	width: 100%;
+	height: 400px;
+	background-color: #ffffff;
+}
+
+#a1{
+	width: 30%;
+	height: 400px;
+	float: left;
+}
+
+#a2{
+	width: 70%;
+	height: 400px;
+	float: right;
+}
+
+.font1{
+	font-family: 'Noto Sans KR';
+	padding-top: 10%;
+	font-size: 20px;
+}
+
+#somos2{
+	width: 100%;
+	height: 100px;
+	background-color: #ffffff;
+}
+.hoverbox
+{
+	cursor: default;
+	list-style: none;
+}
+
+.hoverbox a
+{
+	cursor: default;
+}
+
+.hoverbox a .preview
+{
+	display: none;
+}
+
+.hoverbox a:hover .preview
+{
+	display: block;
+	position: absolute;
+	top: -33px;
+	left: -45px;
+	z-index: 1;
+}
+
+.hoverbox img
+{
+	background: #fff;
+	border-color: #aaa #ccc #ddd #bbb;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	padding: 2px;
+	vertical-align: top;
+	width: 100px;
+	height: 75px;
+}
+
+.hoverbox li
+{
+	background: #eee;
+	border-color: #ddd #bbb #aaa #ccc;
+	border-style: solid;
+	border-width: 1px;
+	color: inherit;
+	display: inline;
+	float: left;
+	margin: 3px;
+	padding: 5px;
+	position: relative;
+}
+
+.hoverbox .preview
+{
+	border-color: #000;
+	width: 200px;
+	height: 150px;
+}
+
+#cuatro {
+	width: 50%;
+	height: 55px;
+	float: left;
+}
+
+#cinco {
+	width: 50%;
+	height: 55px;
+	float: right;
+}
+
+.font3{
+	padding-left: 10%;
+	padding-top: 3%;
+	font-family: 'Noto Sans KR';
+	color: #ffffff;
+	}
+
+.redes{
+	padding-top: 1.7%;
+	padding-left: 70%;
+}
+
+#somos3{
+	width: 100%;
+	height: 290px;
+}
+
+.font11{
+	color: #ffffff;
+	font-family: 'Noto Sans KR';
+	padding-top: 3%;
+	padding-left: 47%;
+	font-size: 30px;
+}
+#somos4{
+	width: 50%;
+	height: 290px;
+	background-color: #000000;
+	float: left;
+}
+
+#texto{
+	width: 100%;
+	height: 150px;
+	background-color: #000000;
+}
+
+#texto1{
+	width: 50%;
+	height: 150px;
+	background-color: #000000;
+	float: left;
+}
+
+.style1{
+	color: #ffffff;
+	font-family: 'Noto Sans KR';
+	padding-top: 5%;
+	margin-left: 5%;
+
+}
+
+
+#somos5{
+	width: 50%;
+	height: 290px;
+	background-color: #000000;
+	float: right;
+}
+
+#texto2{
+	width: 50%;
+	height: 150px;
+	background-color: #000000;
+	float: right;
+}
+
+.style2{
+	color: #ffffff;
+	font-family: 'Noto Sans KR';
+	padding-top: 5%;
+	margin-left: 5%;
+
+}
